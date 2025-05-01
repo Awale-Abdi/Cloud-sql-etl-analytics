@@ -38,6 +38,23 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
 
 ---
 
+📦 Project Structure
+├── Raw Data/                         # Unprocessed CSV files from instructor
+│   ├── LCA_Disclosure_Data_FY2022_Q1.csv
+│   ├── LCA_Disclosure_Data_FY2022_Q2.csv
+│   ├── LCA_Disclosure_Data_FY2022_Q3.csv
+│   └── LCA_Disclosure_Data_FY2022_Q4.csv
+│
+├── Final Data/                       # All deliverables and cleaned outputs
+│   ├── Final Cleaned Data Used/     # Cleaned Excel files ready for SQL upload
+│   ├── All Cleaned Data.zip         # Compressed backup of cleaned files
+│   ├── Command Prompt Video - 1 minute.mp4
+│   ├── Executive Summary.docx       # Final report with insights
+│   ├── Schema Screenshot.png        # MySQL ERD diagram
+│   └── Schema.mwb                   # MySQL Workbench schema project file
+
+---
+
 ## 🛠️ Tools Used
 
 - 📊 **Power Query Editor** – for data cleaning and transformation
