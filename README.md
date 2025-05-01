@@ -34,7 +34,7 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
   - Submit either:
     - A **60-second video** showing command-line data upload
     - Or a **manual with screenshots**
-  - Deliver an executive summary addressed to international F1 students using SQL analysis
+  - Deliver an executive summary and report addressed to international F1 students using SQL analysis
 
 ---
 
