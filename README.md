@@ -40,7 +40,7 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
 
 ## 📁 Project Structure
 
-- **Raw Data** – Unprocessed CSVs from instructor  
+- **Raw Data** – Unprocessed CSVs from Professor  
   - `LCA_Disclosure_Data_FY2022_Q1.csv`  
   - `LCA_Disclosure_Data_FY2022_Q2.csv`  
   - `LCA_Disclosure_Data_FY2022_Q3.csv`  
