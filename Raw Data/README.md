@@ -1,10 +1,9 @@
-# Raw Labor Certification Data (FY2022)
+# Raw Data
 
 This folder contains links to the original raw datasets used in this project.  
-Each file is compressed in `.7z` format and hosted via AWS S3.
+Each CSV file is compressed in `.7z` format and hosted via AWS S3.
 
 To access the data, download and extract the archives below.  
-Each `.7z` archive contains the raw CSV file for that quarter.
 
 ---
 
