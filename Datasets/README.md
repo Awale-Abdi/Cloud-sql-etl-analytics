@@ -1,4 +1,4 @@
-# Datasets
+# Raw Data
 
 This folder contains links to the original raw datasets used in this project.  
 Each CSV file is compressed in `.7z` format and hosted via AWS S3.
