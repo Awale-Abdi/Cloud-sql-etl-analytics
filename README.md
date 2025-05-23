@@ -40,14 +40,14 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
 
 ## 📁 Project Structure
 
-- **Raw Data** – Unprocessed CSVs provided by the instructor  
+- **Datasets** – Unprocessed CSVs provided by the instructor  
   - LCA_Disclosure_Data_FY2022_Q1.csv  
   - LCA_Disclosure_Data_FY2022_Q2.csv  
   - LCA_Disclosure_Data_FY2022_Q3.csv  
   - LCA_Disclosure_Data_FY2022_Q4.csv  
   > 🔹 These files are compressed into `.7z` format and hosted on AWS S3 due to GitHub’s file size limits.
 
-- **Final Data** – Cleaned datasets, documentation, schema files, and demo videos  
+- **Outputs** – Cleaned datasets, documentation, schema files, and demo videos  
   - Final Cleaned Data.zip – Cleaned Excel files ready for SQL upload  
   - Executive Summary.docx – Final report with labor market insights  
   - Schema Screenshot.png – MySQL ERD diagram  
