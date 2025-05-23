@@ -40,20 +40,21 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
 
 ## 📁 Project Structure
 
-- **Raw Data** – Unprocessed CSVs from Professor  
-  - `LCA_Disclosure_Data_FY2022_Q1.csv`  
-  - `LCA_Disclosure_Data_FY2022_Q2.csv`  
-  - `LCA_Disclosure_Data_FY2022_Q3.csv`  
-  - `LCA_Disclosure_Data_FY2022_Q4.csv`
+- **Raw Data** – Unprocessed CSVs provided by the instructor  
+  - LCA_Disclosure_Data_FY2022_Q1.csv  
+  - LCA_Disclosure_Data_FY2022_Q2.csv  
+  - LCA_Disclosure_Data_FY2022_Q3.csv  
+  - LCA_Disclosure_Data_FY2022_Q4.csv  
+  > 🔹 These files are compressed into `.7z` format and hosted on AWS S3 due to GitHub’s file size limits.
 
-- **Final Data** – All deliverables and cleaned outputs  
-  -  `Final Cleaned Data.zip` – Cleaned Excel files ready for SQL upload  
-  - `All Cleaned Data.zip` – Compressed backup of all cleaned files  
-  - `Command Prompt Video 1.mp4` – Upload Demonstration  
-  - `Command Prompt Video 2.mp4` – Query Demonstration  
-  - `Executive Summary.docx` – Final report with labor market insights  
-  - `Schema Screenshot.png` – MySQL ERD diagram  
-  - `Schema.mwb` – MySQL Workbench schema project file  
+- **Final Data** – Cleaned datasets, documentation, schema files, and demo videos  
+  - Final Cleaned Data.zip – Cleaned Excel files ready for SQL upload  
+  - Executive Summary.docx – Final report with labor market insights  
+  - Schema Screenshot.png – MySQL ERD diagram  
+  - Schema.mwb – MySQL Workbench schema project file  
+  - Command Prompt Video 1.mp4 – Upload demonstration  
+  - Command Prompt Video 2.mp4 – Query demonstration  
+  > 🔹 Final outputs are also hosted via AWS S3 for streamlined access and due to Github's file size limits.
 
 ---
 
@@ -61,9 +62,10 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
 
 - 📊 **Power Query Editor** – for data cleaning and transformation  
 - 🧩 **MySQL Workbench** – for schema design, SQL querying, and user management  
-- ☁️ **Azure MySQL** – for cloud deployment and multi-user access  
-- 📽️ **Command Prompt** – for demonstrating CLI-based data upload  
-- 📝 Microsoft Word – for compiling the executive summary and visualizing key query results in report format
+- ☁️ **Azure MySQL** – for cloud-based SQL deployment and database provisioning  
+- ☁️ **AWS S3** – for hosting large raw and final datasets externally and linking them to GitHub  
+- 📽️ **Command Prompt** – for demonstrating CLI-based data upload to Azure  
+- 📝 **Microsoft Word** – for compiling the executive summary and final project documentation  
 
 ---
 
