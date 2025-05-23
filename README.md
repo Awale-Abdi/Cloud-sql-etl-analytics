@@ -1,4 +1,4 @@
-# H1B Insights Engine Cloud-Based SQL ETL & Labor Market Analytics (2M+ Records)
+# H1B Insights Engine: Cloud-Based SQL ETL & Labor Market Analytics (2M+ Records)
 
 A full-stack **ETL and SQL analytics pipeline** developed as a **team project** during my Master’s in Business Analytics. I served as the **project lead** and was responsible for **all SQL coding**, including schema design, data transformation, and analytical querying. The project was built using **Power Query Editor**, **MySQL Workbench**, and a **cloud-hosted Azure MySQL database**. It involved designing a normalized schema, cleaning and loading multi-million row datasets using Power Query Editor, conducting SQL-based labor market analysis, and provisioning stakeholder access via a to the point report.
 
