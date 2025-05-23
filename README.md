@@ -76,3 +76,14 @@ Created and tested remote SQL credentials for instructor access:
 ```sql
 CREATE USER 'prof_luis'@'%' IDENTIFIED BY 'clever_password';
 GRANT SELECT ON h1b.* TO 'prof_luis';
+```
+
+--- 
+
+### **Contact Me**
+
+For questions or collaboration, reach out via:
+
+- Awaleiabdi@outlook.com
+
+- [LinkedIn](https://www.linkedin.com/in/awale-abdi/)
