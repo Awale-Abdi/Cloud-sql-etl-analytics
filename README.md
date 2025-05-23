@@ -32,7 +32,7 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
   - Build a normalized schema from scratch in **MySQL Workbench**
   - Create a **read-only user** for the professor to verify cloud database access
   - Submit either:
-    - A **60-second video** showing command-line data upload
+    - A **60 to 90 second video** showing command-line data upload
     - Or a **manual with screenshots**
   - Deliver an executive summary and report addressed to international F1 students using SQL analysis
 
