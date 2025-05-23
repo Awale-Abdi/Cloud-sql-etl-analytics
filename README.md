@@ -1,8 +1,8 @@
 # Cloud SQL ETL & Analytics Pipeline (2M+ Records)
 
-A full-stack **ETL and SQL analytics pipeline** built using **Power Query Editor**, **MySQL Workbench**, and a **cloud-hosted Azure MySQL database**. This project was completed as part of my Master’s in Business Analytics and involved designing a normalized schema, cleaning and loading multi-million row datasets, conducting SQL-based labor market analysis, and provisioning stakeholder access.
+A full-stack **ETL and SQL analytics pipeline** developed as a **team project** during my Master’s in Business Analytics. I served as the **project lead** and was responsible for **all SQL coding**, including schema design, data transformation, and analytical querying. The project was built using **Power Query Editor**, **MySQL Workbench**, and a **cloud-hosted Azure MySQL database**. It involved designing a normalized schema, cleaning and loading multi-million row datasets using Power Query Editor, conducting SQL-based labor market analysis, and provisioning stakeholder access via a to the point report.
 
-I processed over **2 million labor market records** across four quarters of FY2022 to extract **actionable insights** for international students navigating the U.S. job market and H1B sponsorship process.
+Together, we processed over **2 million labor market records** across four quarters of FY2022 to extract **actionable insights** for international students navigating the U.S. job market and H1B sponsorship process.
 
 ---
 
@@ -49,8 +49,8 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
 - **Final Data** – All deliverables and cleaned outputs  
   -  `Final Cleaned Data.zip` – Cleaned Excel files ready for SQL upload  
   - `All Cleaned Data.zip` – Compressed backup of all cleaned files  
-  - `Command Prompt Video 1.mp4` – Upload Demonstration
-  - `Command Prompt Video 2.mp4` – Query Demonstration
+  - `Command Prompt Video 1.mp4` – Upload Demonstration  
+  - `Command Prompt Video 2.mp4` – Query Demonstration  
   - `Executive Summary.docx` – Final report with labor market insights  
   - `Schema Screenshot.png` – MySQL ERD diagram  
   - `Schema.mwb` – MySQL Workbench schema project file  
@@ -59,10 +59,10 @@ To clean, normalize, upload, and analyze high-volume labor data (4 CSVs x ~500K 
 
 ## 🛠️ Tools Used
 
-- 📊 **Power Query Editor** – for data cleaning and transformation
-- 🧩 **MySQL Workbench** – for schema design, SQL querying, and user management
-- ☁️ **Azure MySQL** – for cloud deployment and multi-user access
-- 📽️ **Command Prompt** – for demonstrating CLI-based data upload
+- 📊 **Power Query Editor** – for data cleaning and transformation  
+- 🧩 **MySQL Workbench** – for schema design, SQL querying, and user management  
+- ☁️ **Azure MySQL** – for cloud deployment and multi-user access  
+- 📽️ **Command Prompt** – for demonstrating CLI-based data upload  
 - 📝 Microsoft Word – for compiling the executive summary and visualizing key query results in report format
 
 ---
